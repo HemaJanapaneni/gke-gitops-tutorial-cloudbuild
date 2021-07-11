@@ -1,5 +1,5 @@
 # GitOps-style Continuous Delivery For Kubernetes Engine With Cloud Build
-## test build ##
+## test build for cloud pipeline ##
 ## Google cloud CI/CD pipeline
 
 This repository contains the code used in the
